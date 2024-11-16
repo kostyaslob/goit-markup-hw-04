@@ -176,7 +176,7 @@ img {
 /* #region section-main */
 .section-main {
     min-width: 1440px;
-    margin: o auto;
+    margin: 0 auto;
     padding-top: 188px;
     padding-bottom: 188px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),url(../images/image_bg_main.jpg);
