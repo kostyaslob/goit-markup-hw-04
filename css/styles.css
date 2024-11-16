@@ -349,8 +349,8 @@ img {
     transition-property: background-color;
 }
 
-.team-social-item:hover .social-link,
-.team-social-item:focus .social-link {
+.team-social-item .social-link:hover, 
+.team-social-item .social-link:focus {
     background-color: #404bbf;
 }
 
